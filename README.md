@@ -23,7 +23,7 @@ I'm 23 years old 💻 Computer Science student from Szczecin, Poland. I'm keen o
 
 #### Backend Develepment
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="45" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="45" />&nbsp;
+<img src="https://user-images.githubusercontent.com/62119460/161035388-d7f88e85-1fc5-4fa0-ae58-d28957acb32b.png" alt="Express.js" width="125" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" alt="MongoDB" width="45" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="45" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="45" />&nbsp;
@@ -44,7 +44,7 @@ I'm 23 years old 💻 Computer Science student from Szczecin, Poland. I'm keen o
 
 ## 📧 Contact
 ###### If you have some questions, feel free to send me a message: **adrian.tworek.it@gmail.com** <br>
-###### or find me on my social media 
+###### Or find me on my social media
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/adrian.tworek.3)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/adrian-tworek-6b5096217)
 
