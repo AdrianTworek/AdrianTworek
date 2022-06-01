@@ -1,7 +1,7 @@
 ![header_img](https://user-images.githubusercontent.com/62119460/160952342-e748c931-cf17-479b-b5c5-d5df79d22c3b.png)
 
 
-## Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> <br> I'm Adrian, nice to see you here!
+## Hi! <br> I'm Adrian, nice to see you here :)
 
 ## 🧑 About Me
 I'm 23 years old 💻 Computer Science student from Szczecin, Poland. I'm keen on *programming and creating robust web applications with amazing functionalities*. I've been deepening my knowledge for almost 2 years. I'm very curious about learning new technologies and using them in realistic scenarios.<br>
