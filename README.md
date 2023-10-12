@@ -20,14 +20,18 @@ I'm 24 years old 💙 React Developer 💙 from Szczecin, Poland <img src="https
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="ReactJS" width="45" />&nbsp;
 <img src="https://user-images.githubusercontent.com/62119460/160945562-60ebf5a8-80d0-4a00-85c3-741672aee28b.png" alt="Next.js" width="45" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" width="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="45" />          
 
 #### Backend Develepment
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="45" />&nbsp;
 <img src="https://user-images.githubusercontent.com/62119460/161035388-d7f88e85-1fc5-4fa0-ae58-d28957acb32b.png" alt="Express.js" width="125" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" alt="NestJS" width="45" />&nbsp;
 <img src="https://user-images.githubusercontent.com/62119460/215287301-9113b3b0-4c87-4e0c-b786-129ee35bd094.png" alt="GraphQL" width="45" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" alt="MongoDB" width="45" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="45" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="45" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" width="45" />&nbsp;
+          
 
 #### Programming Languages
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" />&nbsp;
@@ -35,6 +39,7 @@ I'm 24 years old 💙 React Developer 💙 from Szczecin, Poland <img src="https
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="45" />&nbsp;
         
 #### Tools
+<img src="https://github.com/AdrianTworek/AdrianTworek/assets/62119460/642aa209-adb8-4d90-8531-f7c30e58436b" alt="Nx.dev" width="45" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="45" />&nbsp;
 <img src="https://user-images.githubusercontent.com/62119460/215287200-83777711-d3b3-409d-8bd8-d09fb6e541b5.png" alt="Kubernetes" width="45" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="45" />&nbsp;
@@ -45,8 +50,6 @@ I'm 24 years old 💙 React Developer 💙 from Szczecin, Poland <img src="https
 <br>
 
 ## 📧 Contact
-###### If you have some questions, feel free to send me a message: **adrian.tworek.it@gmail.com** <br>
-###### Or find me on my social media
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/adrian.tworek.3)
+###### If you have some questions, feel free to send me an email: **adrian.tworek.it@gmail.com**
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/adrian-tworek-6b5096217)
 
