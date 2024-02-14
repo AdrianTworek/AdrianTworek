@@ -4,7 +4,7 @@
 ## Hi! <br> I'm Adrian, nice to see you here :)
 
 ## 🧑 About Me
-I'm 24 years old 💙 React Developer 💙 from Szczecin, Poland <img src="https://user-images.githubusercontent.com/62119460/215287410-d1d05163-09ff-4077-8c83-4290493bee5f.png" alt="polish flag" width="16" />. I'm keen on ***programming and creating robust web applications with amazing functionalities***. I've been deepening my knowledge for almost 3 years. I'm very curious about learning new technologies and using them in realistic scenarios.<br>
+I'm 💙 React Developer 💙 from Szczecin, Poland <img src="https://user-images.githubusercontent.com/62119460/215287410-d1d05163-09ff-4077-8c83-4290493bee5f.png" alt="polish flag" width="16" />. I'm keen on ***programming and creating robust web applications with amazing functionalities***. I've been deepening my knowledge for almost 4 years. I'm very curious about learning new technologies and using them in realistic scenarios.<br>
 ###### 🌱 My current goal is to master Full-Stack Web development along with React Native.<br>
 ###### 👯 I believe that everything is possible as long as you're devoted and industrious!<br>
 ###### ✨ Besides coding, I'm a fan of the Harry Potter series and I like learning Spanish.<br><br>
@@ -14,18 +14,18 @@ I'm 24 years old 💙 React Developer 💙 from Szczecin, Poland <img src="https
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="45" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass" width="45" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" width="45" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS" width="45" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" alt="Material UI" width="45" />&nbsp;
 <img src="https://user-images.githubusercontent.com/62119460/160946168-36023faa-ebc9-4f75-a20e-3872f8496a6d.png" alt="styled-components" width="70" height="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="ReactJS" width="45" />&nbsp;
 <img src="https://user-images.githubusercontent.com/62119460/160945562-60ebf5a8-80d0-4a00-85c3-741672aee28b.png" alt="Next.js" width="45" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" width="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="45" />          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" alt="Angular" width="45" />
 
 #### Backend Develepment
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="45" />&nbsp;
 <img src="https://user-images.githubusercontent.com/62119460/161035388-d7f88e85-1fc5-4fa0-ae58-d28957acb32b.png" alt="Express.js" width="125" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" alt="NestJS" width="45" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" alt="NestJS" width="45" />&nbsp;
 <img src="https://user-images.githubusercontent.com/62119460/215287301-9113b3b0-4c87-4e0c-b786-129ee35bd094.png" alt="GraphQL" width="45" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" alt="MongoDB" width="45" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="45" />&nbsp;
@@ -37,6 +37,7 @@ I'm 24 years old 💙 React Developer 💙 from Szczecin, Poland <img src="https
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="45" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="45" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" alt="Go" width="45" />&nbsp;
         
 #### Tools
 <img src="https://github.com/AdrianTworek/AdrianTworek/assets/62119460/642aa209-adb8-4d90-8531-f7c30e58436b" alt="Nx.dev" width="45" />&nbsp;
