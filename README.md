@@ -1,10 +1,10 @@
 ![header_img](https://user-images.githubusercontent.com/62119460/160952342-e748c931-cf17-479b-b5c5-d5df79d22c3b.png)
 
 
-## Hi! <br> I'm Adrian, nice to see you here :)
+## Hi 👋 <br> I'm Adrian, nice to see you here! :)
 
 ## 🧑 About Me
-I'm 💙 React Developer 💙 from Szczecin, Poland <img src="https://user-images.githubusercontent.com/62119460/215287410-d1d05163-09ff-4077-8c83-4290493bee5f.png" alt="polish flag" width="16" />. I'm keen on ***programming and creating robust web applications with amazing functionalities***. I've been deepening my knowledge for almost 4 years. I'm very curious about learning new technologies and using them in realistic scenarios.<br>
+Insightful software engineer immersed in Web Development. I am fond of creating fully-fledged web applications with a lot of outstanding features. I appreciate learning modern technologies and putting theory into practice. Regarding 💙 TypeScript 💙 full-stack development, I am like a kid in a candy store. Additionally, I am deeply in love with the power and versatility of Golang, harnessing its concurrency and performance to build robust backend systems.
 ###### 🌱 My current goal is to master Full-Stack Web development along with React Native.<br>
 ###### 👯 I believe that everything is possible as long as you're devoted and industrious!<br>
 ###### ✨ Besides coding, I'm a fan of the Harry Potter series and I like learning Spanish.<br><br>
