@@ -5,8 +5,8 @@
 
 ## 🧑 About Me
 Insightful software engineer immersed in Web Development. I am fond of creating fully-fledged web applications with a lot of outstanding features. I appreciate learning modern technologies and putting theory into practice. Regarding 💙 TypeScript 💙 full-stack development, I am like a kid in a candy store. Additionally, I am deeply in love with the power and versatility of Golang, harnessing its concurrency and performance to build robust backend systems.
-###### 🌱 My current goal is to master Full-Stack Web development along with React Native.<br>
-###### 👯 I believe that everything is possible as long as you're devoted and industrious!<br>
+###### 🎯 My current goal is to master Full-Stack Web development along with React Native.<br>
+###### 💼 I believe that everything is possible as long as you're devoted and industrious!<br>
 ###### ✨ Besides coding, I'm a fan of the Harry Potter series and I like learning Spanish.<br><br>
 
 ## 🔧 Technologies & Tools
