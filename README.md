@@ -1,7 +1,6 @@
+## Hi 👋 <br> I'm Adrian, nice to see you here! 😉
+
 ![header_img](https://user-images.githubusercontent.com/62119460/160952342-e748c931-cf17-479b-b5c5-d5df79d22c3b.png)
-
-
-## Hi 👋 <br> I'm Adrian, nice to see you here! :)
 
 ## 🧑 About Me
 Insightful software engineer immersed in Web Development. I am fond of creating fully-fledged web applications with a lot of outstanding features. I appreciate learning modern technologies and putting theory into practice. Regarding 💙 TypeScript 💙 full-stack development, I am like a kid in a candy store. Additionally, I am deeply in love with the power and versatility of Golang, harnessing its concurrency and performance to build robust backend systems.
