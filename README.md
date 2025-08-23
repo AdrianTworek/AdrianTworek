@@ -2,7 +2,7 @@
 
 <img width="256" height="384" alt="adi-brooklyn-cartoon" src="https://github.com/user-attachments/assets/a4e5ac1e-0812-408e-8bd2-14eccc0b5fe3" />
 
-## 🧑 About Me
+## 👨🏻‍💻 About Me
 ###### TL;DR: TypeScript (Node, Nest and Express.js), React, Angular, Python (Django, FastAPI), Go, Docker, AWS, PostgreSQL
 
 Insightful software engineer with more than **3 years of commercial experience** and over **5 years of programming expertise**, specializing in developing feature-rich web applications.
