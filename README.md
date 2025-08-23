@@ -7,7 +7,9 @@
 
 Insightful software engineer with more than **3 years of commercial experience** and over **5 years of programming expertise**, specializing in developing feature-rich web applications.
  
-Passionate about **full-stack development** and **systems design**, I excel at integrating modern technologies with thoughtful architecture. Adaptive, detail-oriented, and committed to continuous learning, I bring fresh ideas and best practices to every project. Let's build something extraordinary together!
+Passionate about **full-stack development** and **systems design**, I excel at integrating modern technologies with thoughtful architecture. Adaptive, detail-oriented, and committed to continuous learning, I bring fresh ideas and best practices to every project.
+
+Let's build something extraordinary together!
 
 ###### 🎯 My current goal is to foster my Full-Stack development skill set and acquire more DevOps and Mobile knowledge.<br>
 ###### 💼 I believe that everything is possible as long as you're devoted and industrious!<br>
