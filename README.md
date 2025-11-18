@@ -5,9 +5,9 @@
 ## 👨🏻‍💻 About Me
 ###### TL;DR: TypeScript (Node, Nest and Express.js), React, Angular, Python (Django, FastAPI), Go, Docker, AWS, PostgreSQL
 
-Insightful software engineer with more than **3 years of commercial experience** and over **5 years of programming expertise**, specializing in developing feature-rich web applications.
+Insightful software engineer with over **3 years of commercial experience** and more than **5 years of programming expertise**, specializing in developing feature-rich web applications.
  
-Passionate about **full-stack development** and **systems design**, I excel at integrating modern technologies with thoughtful architecture. Adaptive, detail-oriented, and committed to continuous learning, I bring fresh ideas and best practices to every project.
+Passionate about **full-stack development** and **systems design**, I excel at integrating modern technologies with thoughtful architecture. Adaptive, detail-oriented, and committed to continuous learning, I bring fresh ideas, engineering discipline and best practices to every project.
 
 Let's build something extraordinary together!
 
