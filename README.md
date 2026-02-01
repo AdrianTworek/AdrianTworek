@@ -59,9 +59,12 @@ Let's build something extraordinary together!
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="45" />&nbsp;
 
 ## 🔢 GitHub Stats
-![Adrian's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdrianTworek&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=AdrianTworek&show_icons=true&theme=radical) <br />
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AdrianTworek&layout=compact&theme=radical) <br />
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=AdrianTworek&theme=radical)
 
 ## ✉️ Contact
 ###### If you have any questions, feel free to send me an email message: **adrian.tworek.it@gmail.com** <br />
+###### Or visit my website https://adriantworek.com <br />
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/adrian-tworek-6b5096217)
 
