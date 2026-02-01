@@ -65,6 +65,6 @@ Let's build something extraordinary together!
 
 ## ✉️ Contact
 ###### If you have any questions, feel free to send me an email message: **adrian.tworek.it@gmail.com** <br />
-###### Or visit my website https://adriantworek.com <br />
+###### Or visit my website: https://adriantworek.com <br />
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/adrian-tworek-6b5096217)
 
